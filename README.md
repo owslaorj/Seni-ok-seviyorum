@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>SENİ ÇOK SEVİYORUM</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+      color: #fff;
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      flex-direction: column;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+
+    iframe {
+      border: none;
+      width: 300px;
+      height: 80px;
+    }
+  </style>
+</head>
+<body>
+  <h1>SENİ ÇOK SEVİYORUM 0606242353❤️‍🔥</h1>
+  <iframe src="https://www.youtube.com/embed/VIDEO_ID?autoplay=1&loop=1&playlist=VIDEO_ID" allow="autoplay"></iframe>
+</body>
+</html>
